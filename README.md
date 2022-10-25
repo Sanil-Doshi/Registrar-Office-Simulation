@@ -1,15 +1,10 @@
-# CPSC350_SP22_ASSIGNMENT5_DOSHI
-
 # Registrar's Office Simulation
-This program takes a file as input and checks the time, amount, and wait time of each student.
+This program takes a file as input and checks the time, amount, and wait time of each student in the registrar's office.
 
 ## Identifying Information
 
-* Name: Sanil Doshi
-* Student ID: 2344493
-* Email: sdoshi@chapman.edu
-* Course: CPSC 350
-* Assignment 5
+* Sanil Doshi
+* Chapman University
 
 ## Source Files
 
@@ -23,12 +18,6 @@ This program takes a file as input and checks the time, amount, and wait time of
 * LinkList.h
 * MyList.h
 * main.cpp
-
-## References
-
-## Known Errors
-
-* Segmentation Fault
 
 ## Build Insructions
 
